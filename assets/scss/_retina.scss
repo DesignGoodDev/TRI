@@ -1,0 +1,29 @@
+[class*="retina"] {
+  display: none;
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  [class*="retina"] {
+    display: block;
+  }
+  [class*="regular"] {
+    display: none;
+  }
+	.retina-bcm {
+    width: 100px;
+	}
+	.retina-tri {
+    width: 221px;
+	}
+  .retina-slide2 {
+    width: 298px;
+  }
+  .retina-slide3 {
+    width: 244px;
+  }
+  .retina-slide4 {
+    width: 225px;
+  }
+  .retina-slide5 {
+    width: 253px;
+  }
+}
