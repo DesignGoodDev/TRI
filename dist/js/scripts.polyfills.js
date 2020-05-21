@@ -1,4 +1,4 @@
-/*! tri v1.0.2 | (c) 2019 DesignGood | MIT License |  */
+/*! tri v1.0.2 | (c) 2020 DesignGood | MIT License |  */
 // Init controller
 var controller = new ScrollMagic.Controller();
 
